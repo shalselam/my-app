@@ -16,6 +16,7 @@ const cartReducer = (state, action) => {
         items:newItem,
         totalAmount:totalNewItem
     }
+    console.log('hey');
 }
 }
 
